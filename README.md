@@ -1,6 +1,6 @@
 # maquetasol-2022
 Documentación de un sistema de información para el SOL
-Esquema SOL - 2022 // Sofía Sanmartín Alonso
+Esquema SOL - 2022 // Repetición//update por enésima vez.
 
 En este diagrama se visualizan las diferentes secciones que tendría la página web de SOL:
 ![image](https://user-images.githubusercontent.com/91051075/172129394-d97c1536-0edf-4395-9155-dd0265c8b2b5.png)
